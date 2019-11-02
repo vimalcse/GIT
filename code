@@ -1,1 +1,14 @@
-this is a line of code.
+GIT commands:
+
+   git init		–    initiating an empty repository
+   git add		–   adding a file or directory to git version control system
+   git status		–   Shows you the working tree status
+   git commit		–    commits your local changes locally creating a  unique commit id
+   git diff		-    Diff b/w two commit id’s, and b/w commit and working tree etc.
+   git log			-    Show s the history of commits
+   git branch		-    Create, list and delete branches.
+   git tag			-   Create, list and delete tags.
+   git blame		-   who wrote this?
+   git reflog		-    Manage reflog information
+   git rm			-   ditto for delete 
+	 git help <verb>-
